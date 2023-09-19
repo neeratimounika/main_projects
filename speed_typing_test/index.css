@@ -1,0 +1,66 @@
+.speedTypingTest {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+
+}
+
+.heading {
+    color: #690cb0;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.lets-go-para {
+    color: #323f4b;
+    font-weight: 600;
+}
+
+.img {
+    height: 60px;
+    width: 60px;
+}
+
+.seconds {
+    color: #323f4b;
+    font-family: "roboto";
+}
+
+.numbers {
+    font-size: 38px;
+    font-family: "roboto";
+}
+
+.sub-container {
+    background-color: #f2ebfe;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+}
+
+.typing-passage {
+    font-size: 22px;
+    font-family: "roboto";
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.text-area-box {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.typing-status {
+    color: #323f4b;
+    font-size: 28px;
+}
+
+.submit-button {
+    background-color: #690cb0;
+    color: white;
+    font-weight: 600;
+}
+
+.submit-button2 {
+    background-color: #ffffff;
+    color: #323f4b;
+    font-weight: 600;
+}
